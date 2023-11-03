@@ -28,6 +28,6 @@ Hello there! 👋
 📫 How to reach me:
 
 Email: aibuekuprecious@gmail.com
-Twitter: Twitter.com/pre_shial
+Twitter: [Twitter.com/pre_shial](https://twitter.com/pre_shial)
 LinkedIn: LinkedIn.com/in/aibuekuoprecious
 Feel free to reach out, and let's connect!
