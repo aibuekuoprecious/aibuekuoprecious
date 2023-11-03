@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello there! 👋
 🔭 I'm currently working on becoming a software engineer and data scientist, applying the best project management techniques.
 
-🌱 I'm currently learning Software engineering through African Leadership X (alxafrica.com).
+🌱 I'm currently learning Software engineering through [African Leadership X](https://alxafrica.com).
 
 👯 I'm looking to collaborate on team projects that align with my skill set and offer opportunities for growth.
 
@@ -29,5 +29,6 @@ Hello there! 👋
 
 Email: aibuekuprecious@gmail.com
 Twitter: [Twitter.com/pre_shial](https://twitter.com/pre_shial)
-LinkedIn: LinkedIn.com/in/aibuekuoprecious
+LinkedIn: [LinkedIn.com/in/aibuekuoprecious](https://www.linkedin.com/in/aibuekuoprecious/)
+
 Feel free to reach out, and let's connect!
