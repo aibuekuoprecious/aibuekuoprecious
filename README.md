@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello there! 👋
 🔭 I'm currently working on becoming a software engineer and data scientist, applying the best project management techniques.
 
-🌱 I'm currently learning Software engineering through African Leadership X.
+🌱 I'm currently learning Software engineering through African Leadership X (alxafrica.com).
 
 👯 I'm looking to collaborate on team projects that align with my skill set and offer opportunities for growth.
 
